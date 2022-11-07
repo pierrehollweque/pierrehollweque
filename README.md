@@ -20,4 +20,3 @@
 ![](https://github.com/pierrehollweque/pierrehollweque/blob/main/github-contribution-grid-snake.svg)
 
 
-
